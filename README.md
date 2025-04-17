@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giaccneto&https://github.com/giaccneto/github-readme-stats&theme=dark" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giaccneto&https://github.com/giaccneto/github-readme-stats&theme=dark&show_icons=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaccneto&layout=compact&https://github.com/giaccneto/github-readme-stats&&theme=dark" height="150" alt="stats graph" />
 </div>
 
