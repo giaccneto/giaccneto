@@ -12,10 +12,6 @@
   <img width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="90" alt="docker logo"/>
   <img width="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="90" alt="mysql logo"/>
-  <img width="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="90" alt="mongodb logo"/>
-  <img width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="90" alt="postgresql logo"/>
   <img width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="90" alt="intellij logo"/>
